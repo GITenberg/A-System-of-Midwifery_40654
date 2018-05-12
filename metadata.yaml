@@ -1,0 +1,27 @@
+_repo: A-System-of-Midwifery_40654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rigby, Edward
+    birthdate: 1804
+    deathdate: 1860
+    gutenberg_agent_id: '40750'
+    url: http://www.gutenberg.org/2009/agents/40750
+description: ''
+gutenberg_issued: '2012-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40654'
+  lccn: 08002992
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RG'
+- !lcsh 'Obstetrics'
+title: A System of Midwifery
+url: http://www.gutenberg.org/ebooks/40654
